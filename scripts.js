@@ -1,6 +1,6 @@
 const ENTER_KEYCODE = 13;
 
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', () => {
   const form = document.querySelector('.form');
   const items = document.querySelector('.items');
 
